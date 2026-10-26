@@ -1,0 +1,18 @@
+{
+  "block.outputcontroller.output_controller": "Output Controller",
+  "gui.outputcontroller.title": "Output Controller",
+  "gui.outputcontroller.tab.default": "Default",
+  "gui.outputcontroller.tab.customize": "Customize",
+  "gui.outputcontroller.output": "Output",
+  "gui.outputcontroller.side": "Side",
+  "gui.outputcontroller.no_signal": "No signal",
+  "gui.outputcontroller.signal": "Signal",
+  "gui.outputcontroller.done": "Done",
+  "gui.outputcontroller.side.all": "All",
+  "gui.outputcontroller.side.down": "Down",
+  "gui.outputcontroller.side.up": "Up",
+  "gui.outputcontroller.side.north": "North",
+  "gui.outputcontroller.side.south": "South",
+  "gui.outputcontroller.side.east": "East",
+  "gui.outputcontroller.side.west": "West"
+}

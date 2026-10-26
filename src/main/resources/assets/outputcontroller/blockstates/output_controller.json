@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "outputcontroller:block/output_controller",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": { "model": "outputcontroller:block/output_controller" },
+    "axis=z": { "model": "outputcontroller:block/output_controller", "x": 90 }
+  }
+}

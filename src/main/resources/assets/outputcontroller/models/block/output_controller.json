@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "outputcontroller:block/output_controller_top",
+    "side": "outputcontroller:block/output_controller_side"
+  }
+}
